@@ -1,1 +1,0 @@
-This is a new git practice README.txt file that allows me to practice the git commit command.
